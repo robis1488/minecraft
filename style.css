@@ -1,0 +1,44 @@
+header {
+   background-color: rgb(43, 98, 47);
+padding: 10px;
+padding-bottom: 29px;
+}
+
+body {
+background-color: rgba(90, 36, 5, 0.846);
+margin: 0;
+font-family: sans-serif;
+}
+
+header {
+text-align: center;
+
+}
+main  {
+   text-align: center;
+   padding: 0% 10%;
+}
+
+footer{
+background-color: rgba(45, 51, 48, 0.193);
+margin: 0;
+padding: 20px 10%;
+
+}
+
+header a {
+    color: black;
+    background-color: rgb(40, 72, 46);
+    font-size: 20px;
+    text-decoration: none;
+    border: 1px solid rgb(0, 0, 0);
+    border-radius: 10px;
+    padding: 5px;
+    margin: 30px;
+}
+
+ img footer {
+padding: 10px;
+padding-bottom: 29px;
+}
+
